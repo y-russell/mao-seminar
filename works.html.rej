@@ -1,0 +1,12 @@
+diff a/works.html b/works.html	(rejected hunks)
+@@ -27,6 +27,10 @@
+       <h2>研究活動</h2>
+       <table>
+         <tbody>
++          <tr>
++            <th>ゼミナールⅢ研究課題</th>
++            <td></td>
++          </tr>
+           <tr>
+             <th>ゼミナールⅡ研究課題</th>
+             <td><a href="http://www.c-r.com/book/detail/1075" target="_blank">わかばちゃんと学ぶWebサイト制作の基本</a></td>
